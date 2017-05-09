@@ -1168,13 +1168,13 @@ img {
   background-color: #008CBA;
 }
 
-.container:hover .overlay {
+.overcontainer:hover .overlay {
   opacity: .8;
 }
 
 .text {
   color: white;
-  font-size: 20px;
+/*  font-size: 20px;*/
   position: absolute;
   top: 50%;
   left: 50%;
